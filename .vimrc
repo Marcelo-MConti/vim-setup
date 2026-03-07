@@ -1,7 +1,7 @@
 set nocompatible
 
 if has('termguicolors')
-	set termiguicolors
+	set termguicolors
 endif
 
 filetype plugin indent on
@@ -71,7 +71,7 @@ set completeopt=menuone,longest
 set shortmess+=c
 " Esquema de cores {{{1
 " https://github.com/sainnhe/edge.git
-" set background=dark
+ set background=dark
 " colorscheme edge
 colorscheme habamax
 " Arquivos externos {{{1
