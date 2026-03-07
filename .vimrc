@@ -76,7 +76,7 @@ set shortmess+=c
 colorscheme habamax
 " Arquivos externos {{{1
 "execute 'source '.$RCPATH.fnameescape('autocmds.vim')
-"execute 'source '.$RCPATH.fnameescape('customcolors.vim')
+execute 'source '.$RCPATH.fnameescape('customcolors.vim')
 execute 'source '.$RCPATH.fnameescape('statusbar.vim')
 "execute 'source '.$RCPATH.fnameescape('mappings.vim')
 "execute 'source '.$RCPATH.fnameescape('icomplete.vim')
