@@ -72,6 +72,7 @@ set shortmess+=c
 " Esquema de cores {{{1
 " https://github.com/sainnhe/edge.git
  set background=dark
+
 " colorscheme edge
 colorscheme habamax
 " Arquivos externos {{{1
